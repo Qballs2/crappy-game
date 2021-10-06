@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAiAgAAACAiIiIAAAAgIgAAAAAiAAAiIiIiIiIAACAiIiICAAAgIiIiAgAAAiAiIiICIgQAACIiAAACAAAiIiIiIiJCAAAgIiIiAgAAAAAAICIiIiIAACAiQkQAAAAiIiBEAAAAIAIiIiIiIAAgICJEAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ketchup"
+    },
+    "PX}yzM,oO{)_nBN5RD$:": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAABABAAAAAAAAENERDQAAAAAQ0RENAAAAABDREQ0AAAAAENERDQAAAAAQ0RENAAAAABDREQ0AAAAAENERDQARAQAQ0RENANALABDdEQ0AsRsREQ3QDQDd3d3dAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Turlet"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
